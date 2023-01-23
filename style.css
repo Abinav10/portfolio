@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:   Helvetica, sans-serif;
+
+}
+ /*---------------------------------------------- TOP CONTAINER ------------------------------------------------------------*/
+.container1{
+    background-color: #9DF1DF;
+    height: 650px;
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    margin-top: 0;
+
+}
+
+.web{
+    text-decoration: underline;
+}
+
+/*-------------------------------------------------------- FOOTER -------------------------------------------------------------- */
+
+.footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: #9DF1DF;
+}
+.footer-link{
+    width: 3%;
+    margin: 5px;
+}
+
+.para1{
+    margin: 0%;
+}
+.para{
+    font-family: sans-serif;
+    position: absolute;
+    top: 500px;
+    left: 730px;
+}
+.moto{
+    position: absolute;
+    top: 400px;
+    right: 550px;
+
+}
+.abinavlogo{
+    position: absolute;
+    top: 20px;
+    right: 550px;
+}
+
+/* -------------------------------------------MIDDLECONTAINER--------------------------------------------- */
+.container2{
+    height: 100vh;
+    background-color: #2B2B2B;
+}
+
+.about{
+    width: 50%;
+    opacity: 0.2;
+    margin-top: 250px;
+    margin-left: 790px;
+
+}
+.about1{
+    width: 25%;
+    position: relative;
+    bottom: 400px;
+    right: 600px;
+    opacity: 0.85;
+}
+
+.ui{
+    color:#ff3847 ;
+    opacity: 1;
+}
+.ux{
+    color: #9DF1DF;
+    opacity: 1;
+}
+.about2{
+    color: beige;
+    line-height: 2;
+    text-align: left;
+    opacity: 0.9;
+    font-size: 25px;
+    font-family: 'Brush Script MT',cursive;
+    margin-right: 30px;
+    position: relative;
+    bottom: 360px;
+    left: 30px;
+}
+.apple{
+    text-decoration: none;
+    color: #ff1616
+    
+}
+.apple:hover{
+    color: #9DF1DF;
+}
+.hr{
+    color: #d9d9d9;
+    opacity: 0.2;
+    position: relative;
+    bottom: 300px;
+    width: 15%;
+    border: dotted;
+    border-top: none;
+    border-width: 7px;
+}
+
+
+
+/* --------------------------------------------HEADER ---------------------------------------------------------*/
+.header{
+    height: 100px;
+    background-color: #9DF1DF;
+
+}
+.floop{
+    position: absolute;
+    left: 10px;
+    width: 20%;
+}
+
+.header-link{
+    color: black;
+    margin: 20px  ;
+    text-decoration: none;
+    font-family: 'Montserrat',sans-serif;
+    height: 10px;
+    width: 10px;
+    font-weight: bold;
+    line-height: 7;
+    position: relative;
+    left: 300px;
+}
+.header-link:hover{
+    color: #ff1616;
+
+}
+
+
+
